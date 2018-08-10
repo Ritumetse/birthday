@@ -1,3 +1,30 @@
-page-home {
 
-}
+
+  
+    .card-title {
+      position: absolute;
+      top: 15%;
+      font-size: 2.0em;
+      width: 50%;
+      font-weight: bold;
+      color:pink;
+    }
+    .page{
+        border-radius:50%;
+        background-color:pink;
+    }
+    .card-background-page {
+        ion-card {
+          position: relative;
+          text-align: center;
+        }
+
+    .card-subtitle {
+      font-size: 2.0em;
+      position: absolute;
+      top: 52%;
+      width: 50%;
+      color:pink;
+    }
+  
+  }
